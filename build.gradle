@@ -1,4 +1,4 @@
-group 'co.com.booker' // Reemplaza con tu grupo
+group 'co.com.booker'
 version '1.0.0' // Cambia a versión semántica
 
 description = 'Automation API Serenity BDD'
@@ -12,7 +12,6 @@ buildscript {
         serenityVersion = '3.6.12'
         slf4jVersion = '2.0.5'
         junitVersion = '5.9.2'
-        appiumVersion = '8.3.0'
         logVersion = '2.0.5'
     }
     repositories {
